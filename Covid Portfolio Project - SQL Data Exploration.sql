@@ -1,3 +1,4 @@
+-- Followed Alex The Analyst Guide/Tutorial --> https://youtu.be/qfyynHBFOsM
 
 Select *
 From PortfolioProject..CovidDeaths
