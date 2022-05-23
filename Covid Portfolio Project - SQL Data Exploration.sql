@@ -1,4 +1,5 @@
 -- Followed Alex The Analyst Guide/Tutorial --> https://youtu.be/qfyynHBFOsM
+-- SQL Data Exploration
 
 Select *
 From PortfolioProject..CovidDeaths
