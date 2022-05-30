@@ -1,3 +1,7 @@
+-- Followed Alex The Analyst Guide/Tutorial --> https://www.youtube.com/watch?v=8rO7ztF4NtU
+
+-- SQL Data Cleaning
+
 /* 
 
 Cleaning Data in SQL Queries
